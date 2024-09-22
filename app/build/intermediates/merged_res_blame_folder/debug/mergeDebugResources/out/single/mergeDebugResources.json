@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/layout_fragment_users.xml.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/layout/fragment_users.xml"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/menu_menu.xml.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/menu/menu.xml"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/drawable-hdpi_ic_action_name.png.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/drawable-hdpi/ic_action_name.png"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/layout_chat_item_left.xml.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/layout/chat_item_left.xml"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/drawable-ldpi_ic_action_name.png.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-pngs-15:/drawable-ldpi/ic_action_name.png"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-pngs-15:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/layout_fragment_chats.xml.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/layout/fragment_chats.xml"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/drawable_background_left.xml.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/drawable/background_left.xml"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/drawable-xxxhdpi_ic_action_name.png.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-pngs-15:/drawable-xxxhdpi/ic_action_name.png"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-pngs-15:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/layout_activity_main.xml.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/drawable-xxhdpi_ic_action_name.png.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/drawable-xxhdpi/ic_action_name.png"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/drawable-hdpi_galleryy.png.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/drawable-hdpi/galleryy.png"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-pngs-15:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/layout_user_item.xml.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/layout/user_item.xml"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-pngs-15:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-pngs-15:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/layout_chat_item_right.xml.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/layout/chat_item_right.xml"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/drawable-xhdpi_ic_action_name.png.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/drawable-xhdpi/ic_action_name.png"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/drawable-hdpi_onee.png.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/drawable-hdpi/onee.png"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/layout_activity_start.xml.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/layout/activity_start.xml"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/drawable_one.png.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/drawable/one.png"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/drawable-hdpi_camera.png.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/drawable-hdpi/camera.png"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-pngs-15:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/drawable-mdpi_ic_action_name.png.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/drawable-mdpi/ic_action_name.png"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/layout_fragment_profile.xml.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/drawable-anydpi-v21_ic_action_name.xml.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-pngs-15:/drawable-anydpi-v21/ic_action_name.xml"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-pngs-15:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/layout_activity_login.xml.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-pngs-15:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.mohaiminur.com.textchat.app-debug-20:/layout_activity_message.xml.flat",
+        "source": "com.example.mohaiminur.com.textchat.app-main-22:/layout/activity_message.xml"
+    }
+]

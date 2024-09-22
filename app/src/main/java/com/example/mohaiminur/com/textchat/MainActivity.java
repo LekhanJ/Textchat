@@ -126,14 +126,12 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        switch (item.getItemId()) {
-
-            case R.id.logout:
-                FirebaseAuth.getInstance().signOut();
-                // change this code beacuse your app will crash
-                startActivity( new Intent( MainActivity.this, LoginActivity.class ).setFlags( Intent.FLAG_ACTIVITY_CLEAR_TOP ) );
-                finish();
-                return true;
+        if (item.getItemId() == R.id.logout) {
+            FirebaseAuth.getInstance().signOut();
+            // change this code beacause your app will crash
+            startActivity(new Intent(MainActivity.this, LoginActivity.class).setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP));
+            finish();
+            return true;
         }
 
         return false;

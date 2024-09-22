@@ -1,11 +1,12 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 28
+    namespace 'com.example.mohaiminur.com.textchat'
+    compileSdk 34
     defaultConfig {
         applicationId "com.example.mohaiminur.com.textchat"
         minSdkVersion 17
-        targetSdkVersion 28
+        targetSdk 34
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
